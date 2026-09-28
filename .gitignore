@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.log
+.env
+*.iso
+*.vmdk
+*.vmem
+*.vmsn
+*.vmx.lck

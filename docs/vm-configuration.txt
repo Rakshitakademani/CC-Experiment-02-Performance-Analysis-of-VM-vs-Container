@@ -1,0 +1,8 @@
+VM Configuration
+
+Guest OS: Ubuntu
+vCPU: 4
+RAM: 8 GB
+Virtual Disk: 40 GB
+Network: NAT
+Hypervisor: VMware Workstation
