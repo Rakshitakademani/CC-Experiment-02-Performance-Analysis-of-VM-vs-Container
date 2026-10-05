@@ -20,8 +20,6 @@ This lab investigates how selected system workloads behave in two environments: 
 
 Benchmark output files, environment records, screenshots, and the CPU sweep script are kept in the repository. The results below are calculated directly from those saved outputs. They describe this machine and these runs; they should not be treated as universal performance rankings.
 
-> **Completed scope:** Experiments 1–3 only. Network, application, startup-time, and scalability experiments are not reported as completed here.
-
 ## Objectives
 
 - Compare the recorded CPU, memory, and disk workload measurements from VM and container runs where matching outputs are available.
