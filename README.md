@@ -1,6 +1,6 @@
 <div align="center">
 
-# VM vs Container Performance Lab
+# VM vs Container Performance Analysis
 
 ### Three workloads. Two execution environments. One reproducible comparison.
 
